@@ -10,20 +10,47 @@
 
 
 
+
+
+
 Category:
+
+
+
+
 ![download](https://user-images.githubusercontent.com/114070863/202854332-d59f3765-5da0-4267-a067-86df47bd1be7.jpg)
 
 
 
 
 💻Data Science
+
+
+
+
 👨‍🎓Skills Required:
+
+
+
+
 ![images](https://user-images.githubusercontent.com/114070863/202854396-b74d8dc7-72c1-42f3-a9d1-d6dbbf3ae1f7.jpg)
 
 
 
+
+
+
+
 Python,Jupyter Notebook, IBM Cloud, IBM Watson Studio, Jira, Deep Learning, Python-Flask
+
+
+
+
 📖Project Description:
+
+
+
+
 ![download (1)](https://user-images.githubusercontent.com/114070863/202854494-086d887f-5134-4627-8a6e-528831ea7241.jpg)
 
 
@@ -32,6 +59,9 @@ Safe and readily available water is important for public health, whether it is u
 
 
 🤵Team Members:
+
+
+
 ![images](https://user-images.githubusercontent.com/114070863/202854545-17793f8d-48e7-46ce-a0ba-9cc4f3f4b988.png)
 
 
